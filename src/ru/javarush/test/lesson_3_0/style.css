@@ -1,0 +1,9 @@
+ul.custom-list {
+    list-style-type: katakana; /* Японская слоговая азбука */
+    color: blue; /* Цвет текста */
+}
+
+ol.custom-list {
+    list-style-type: hiragana-iroha; /* Японская система упорядочения */
+    color: green; /* Цвет текста */
+}
